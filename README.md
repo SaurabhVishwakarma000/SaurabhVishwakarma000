@@ -1,66 +1,73 @@
-## Hi there 👋
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  🎬 CINEMATIC 3D GLITCH HEADER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://readmeforge.natrajx.in/api/text-anim?text=Saurabh%20Vishwakarma&effect=glitch-rgb&metal=chrome&size=54&width=900&height=110"/>
+  <img src="https://readmeforge.natrajx.in/api/text-anim?text=Saurabh%20Vishwakarma&effect=glitch-rgb&metal=chrome&size=54&width=900&height=110" alt="Saurabh Vishwakarma">
 </p>
 
 <p align="center">
-  <img src="https://readmeforge.natrajx.in/api/text-anim?text=Full%20Stack%20Developer%20%28MERN%29&effect=3d-rotate&metal=neon-blue&size=26&width=700&height=60"/>
+  <img src="https://readmeforge.natrajx.in/api/text-anim?text=Full%20Stack%20Developer%20%28MERN%29&effect=3d-rotate&metal=neon-blue&size=24&width=650&height=55" alt="Full Stack Developer">
 </p>
 
-<p align="center">
-  <img src="https://readmeforge.natrajx.in/api/text-anim?text=Founder%20%C2%B7%2024Zen%20%C2%B7%20AI%20%26%20Cloud&effect=neon-flicker&metal=neon-pink&size=20&width=580&height=50"/>
-</p>
+<h2 id="full-stack-developer-mern--ai-enthusiast">Full Stack Developer (MERN & AI)</h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0F,50:1A1A2E,100:0F3460&height=50&section=footer&text=%E2%96%BA%20Building%20Production-Grade%20Experiences%20%E2%97%84&fontSize=14&fontColor=00D4FF&animation=blinking"/>
-</p>
+<p>🔭 Currently building <b>24Zen</b> — a 24×7 multi-vertical service super-platform — and actively seeking Full Stack Developer opportunities.</p>
 
-<br/>
+<p>Long story short:</p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SOCIAL LINKS                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<p>🎓 Learn &nbsp; 💻 Code &nbsp; 🚀 Build &nbsp; 🧠 Ship &nbsp; ♻️ Repeat</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/saurabh-vishwakarma-72304a415">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>📍 Based in <b>Lucknow, Uttar Pradesh, India</b></p>
+
+<p>🌐 Check my <a href="https://github.com/SaurabhVishwakarma000">GitHub</a> · Connect on <a href="https://linkedin.com/in/saurabh-vishwakarma-72304a415">LinkedIn</a></p>
+
+<p>I'm a <b>Full Stack Developer (MERN)</b> with a <b>B.Tech in Computer Science (2026)</b> from BBDNIIT, Lucknow. I've delivered <b>4+ full-stack projects</b> with <b>40+ API endpoints</b>, real-time messaging systems, and production-grade web experiences using <b>React, Node.js, Express.js, MongoDB & Socket.io</b>.</p>
+
+<p>As <b>Founder & Full Stack Developer of 24Zen</b>, I own product strategy, brand identity, and end-to-end development across 6 verticals — groceries, healthcare, skilled workers, food delivery, transport & digital utilities.</p>
+
+<p>🧠 Strong in <b>DSA, OOP & Backend Architecture</b> · Certified in <b>AI, Data Science, Azure AI Agent Services</b> & Cybersecurity</p>
+
+<p>🚀 Featured work: E-Commerce REST API (20+ endpoints) · Chatify Real-Time Chat · Full Stack Web App · Reusable UI Component Library</p>
+
+<p>I'm always building side projects and learning new tech — feel free to reach out 💬</p>
+
+<p>📫 <b>Email:</b> <a href="mailto:saurabhvk24@gmail.com">saurabhvk24@gmail.com</a> · <b>Phone:</b> +91 9026755863</p>
+
+<!--
+**SaurabhVishwakarma000/SaurabhVishwakarma000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on 24Zen & full-stack MERN projects
+- 🌱 I’m currently learning AI Agents, Azure AI Foundry & advanced backend architecture
+- 👯 I’m looking to collaborate on open-source & startup products
+- 🤔 I’m looking for help with scaling 24Zen to production
+- 💬 Ask me about React, Node.js, REST APIs, Socket.io & MERN stack
+- 📫 How to reach me: saurabhvk24@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I built a Three.js-powered 3D landing page for 24Zen
+-->
+
+<div align="center">
+
   <a href="https://github.com/SaurabhVishwakarma000">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub">
+  </a>
+  <a href="https://linkedin.com/in/saurabh-vishwakarma-72304a415">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
   <a href="mailto:saurabhvk24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-saurabhvk24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-saurabhvk24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
   </a>
-  <img src="https://img.shields.io/badge/Lucknow%2C%20UP-10B981?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Phone-+91%209026755863-6366F1?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://linkedin.com/in/saurabh-vishwakarma-72304a415">
+    <img src="https://img.shields.io/badge/Lucknow%2C%20India-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  </a>
+
+</div>
+
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaurabhVishwakarma000&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views">
 </p>
 
-<br/>
+<p>Credits: Inspired by <a href="https://github.com/Iwi4a">Ivelin Iliev (Iwi4a)</a> · Customized for <a href="https://github.com/SaurabhVishwakarma000">Saurabh Vishwakarma</a></p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  ABOUT ME                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 👨‍💻 About Me
-
-```js
-const saurabh = {
-  name: "Saurabh Vishwakarma",
-  role: "Full Stack Developer (MERN)",
-  education: "B.Tech Computer Science — 2026",
-  college: "BBDNIIT, Lucknow",
-  location: "Lucknow, Uttar Pradesh, India",
-  email: "saurabhvk24@gmail.com",
-  phone: "+91 9026755863",
-  founder: "24Zen — 24×7 Multi-Vertical Service Platform",
-  projects: "4+ Full-Stack Projects | 40+ API Endpoints",
-  skills: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "TypeScript"],
-  passion: ["Scalable Backends", "Real-Time Systems", "AI & LLM Workflows"],
-  languages: ["English (Professional)", "Hindi (Native)"],
-  openToWork: true
-};
+<p>Last Edited on: 10/07/2026</p>
