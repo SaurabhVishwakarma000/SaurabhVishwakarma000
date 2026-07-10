@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Vishwakarma</h1>
 <h3 align="center">Full Stack Developer (MERN) | Founder @ 24Zen | B.Tech CS '26</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhvishwakarma000&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhvishwakarma000" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhvishwakarma000&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhvishwakarma000" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhvishwakarma000" alt="saurabhvishwakarma000" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhvishwakarma000" alt="saurabhvishwakarma000" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/saurabh_nsv" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_nsv?logo=twitter&style=for-the-badge" alt="saurabh_nsv" /></a> </p>
 
