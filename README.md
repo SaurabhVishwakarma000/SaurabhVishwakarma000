@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SaurabhVishwakarma000">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Full%20Stack%20Developer%20(MERN)%20%7C%20Founder%20%40%2024Zen" alt="Hello! I&#39;m Full Stack Developer (MERN) | Founder @ 24Zen" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Hello!%20I'm%20Saurabh%20Vishwakarma" alt="Hello! I&#39;m Saurabh Vishwakarma" />
   </a>
 </p>
 
