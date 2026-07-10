@@ -4,7 +4,7 @@
 <!--  3D FLOATING ANIMATED NAME HEADER                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Saurabh%20Vishwakarma&fontSize=55&fontColor=ffffff&animation=scaleIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077BE,50:00B4D8,100:90E0EF&height=320&section=header&text=Saurabh%20Vishwakarma&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=45&stroke=FFFFFF&strokeWidth=1"/>
 </p>
 
 <p align="center">
