@@ -1,33 +1,35 @@
-<p><img src="https://raw.githubusercontent.com/SaurabhVishwakarma000/SaurabhVishwakarma000/master/assets/header.png" alt="Saurabh Vishwakarma README header"></p>
-<h2 id="full-stack-developer-mern">Full Stack Developer (MERN)</h2>
-<p>🔭 Currently building <b>24Zen</b>, a 24×7 service super-platform, and looking for Full Stack Developer opportunities.</p>
-<p>Long story short:</p>
-<p>🎓 Learn 💻 Code 🚀 Build ♻️ Repeat</p>
-<p>🌎 Check my <a href="https://github.com/SaurabhVishwakarma000">GitHub</a></p>
-<p>I'm always working on side projects and full-stack apps, but I can't be bothered to keep everything perfectly up to date.</p>
-<p>Feel free to reach out 💬</p>
-<!--
-**SaurabhVishwakarma000/SaurabhVishwakarma000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Saurabh Vishwakarma</h1>
+<h3 align="center">Full Stack Developer (MERN) | Founder @ 24Zen | B.Tech CS '26</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhvishwakarma000&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhvishwakarma000" /> </p>
 
-- 🔭 I’m currently working on 24Zen & MERN stack projects
-- 🌱 I’m currently learning AI Agents, Azure AI Foundry & advanced backend architecture
-- 👯 I’m looking to collaborate on open-source & startup ideas
-- 🤔 I’m looking for help with scaling 24Zen
-- 💬 Ask me about React, Node.js, Express, MongoDB & REST APIs
-- 📫 How to reach me: saurabhvk24@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've built 40+ API endpoints across 4+ full-stack projects
--->
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://github.com/SaurabhVishwakarma000">
-        <img src="https://raw.githubusercontent.com/SaurabhVishwakarma000/SaurabhVishwakarma000/master/assets/github.svg" alt="Follow me on GitHub">
-    </a>
-     <a href="https://www.linkedin.com/in/saurabh-vishwakarma-72304a415/">
-        <img src="https://raw.githubusercontent.com/SaurabhVishwakarma000/SaurabhVishwakarma000/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
-</div>
-<hr>
-<p>Credits: <a href="https://github.com/SaurabhVishwakarma000">Saurabh Vishwakarma</a></p>
-<p>Last Edited on: 10/07/2026</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhvishwakarma000" alt="saurabhvishwakarma000" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/saurabh_nsv" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_nsv?logo=twitter&style=for-the-badge" alt="saurabh_nsv" /></a> </p>
+
+- 🌱 I’m currently learning **AI Agents, Azure AI Foundry, Advanced Backend Architecture & Cybersecurity**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SaurabhVishwakarma000](https://github.com/SaurabhVishwakarma000)
+
+- 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs & Socket.io**
+
+- 📫 How to reach me **saurabhvk24@gmail.com**
+
+- 📄 Know about my experiences [https://linkedin.com/in/saurabh-vishwakarma-72304a415](https://linkedin.com/in/saurabh-vishwakarma-72304a415)
+
+- ⚡ Fun fact **I founded 24Zen and built 40+ API endpoints across 4+ full-stack projects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/saurabh_nsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh_nsv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabh-vishwakarma-72304a415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-vishwakarma-72304a415" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhvishwakarma000&show_icons=true&locale=en&layout=compact" alt="saurabhvishwakarma000" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhvishwakarma000&show_icons=true&locale=en" alt="saurabhvishwakarma000" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhvishwakarma000&" alt="saurabhvishwakarma000" /></p>
