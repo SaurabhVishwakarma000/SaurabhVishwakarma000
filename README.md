@@ -3,9 +3,8 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  3D FLOATING ANIMATED NAME HEADER                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Saurabh%20Vishwakarma&fontSize=55&fontColor=00D9FF&animation=twinkling&fontAlignY=38&stroke=00D9FF&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Saurabh%20Vishwakarma&fontSize=55&fontColor=ffffff&animation=scaleIn&fontAlignY=40"/>
 </p>
 
 <p align="center">
