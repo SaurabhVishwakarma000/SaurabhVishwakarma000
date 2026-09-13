@@ -12,7 +12,7 @@
 
 Full Stack Developer (MERN) &amp; B.Tech CS grad building 24Zen Founder â€” a one-stop service super-platform. I write clean, tested APIs and I'm always chasing the next skill to learn.
 
-ðŸ”­ &nbsp;I'm currently working on **my personal portfolio site (Vite, Bun, TanStack Start, TypeScript) + a REST API e-commerce backend**  
+ðŸ”­ &nbsp;(Vite, Bun, TanStack Start, TypeScript) + a REST API e-commerce backend**  
 ðŸŒ± &nbsp;I'm currently learning **cybersecurity fundamentals (Kali Linux, sqlmap, Metasploit) and business analytics**  
 ðŸ‘¯ &nbsp;I'm looking to collaborate on **full-stack/MERN projects and early-stage startup ideas**  
 ðŸ¤” &nbsp;I'm looking for help with **scaling 24Zen from concept to MVP**  
